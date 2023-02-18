@@ -111,7 +111,7 @@ Partial Class FeneSaisieAbo
         Me.Label5.Font = New System.Drawing.Font("Bahnschrift SemiBold", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label5.Location = New System.Drawing.Point(239, 127)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(172, 23)
+        Me.Label5.Size = New System.Drawing.Size(176, 23)
         Me.Label5.TabIndex = 47
         Me.Label5.Text = "Saisie des Abonnés"
         '
@@ -149,7 +149,7 @@ Partial Class FeneSaisieAbo
         Me.Label4.Font = New System.Drawing.Font("Bahnschrift SemiBold", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.Location = New System.Drawing.Point(132, 67)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(373, 23)
+        Me.Label4.Size = New System.Drawing.Size(385, 23)
         Me.Label4.TabIndex = 43
         Me.Label4.Text = "Centre des ventes et Services de Ngiri-Ngiri"
         '
@@ -159,7 +159,7 @@ Partial Class FeneSaisieAbo
         Me.Label3.Font = New System.Drawing.Font("Bahnschrift SemiBold", 14.25!, System.Drawing.FontStyle.Bold)
         Me.Label3.Location = New System.Drawing.Point(195, 44)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(257, 23)
+        Me.Label3.Size = New System.Drawing.Size(261, 23)
         Me.Label3.TabIndex = 42
         Me.Label3.Text = "Société Nationale d'Electricité"
         '

@@ -4,7 +4,7 @@ Imports System.Data.SqlClient
 Public Class FeneSaisieAbo
     Private Sub ChargementComboTypeAbo()
         Try
-
+            'CHARFEMENT DU COMBO TYPE ABONNE
             DataAdapter1 = New SqlDataAdapter()
             DataAdapter1.SelectCommand = New SqlCommand("SELECT RTRIM(DESITYPEABO),CODTYPEABO FROM TYPEABONNE", Connexion1)
             Dataset1 = New DataSet
@@ -69,5 +69,13 @@ Public Class FeneSaisieAbo
         Catch ex As Exception
             MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
         End Try
+    End Sub
+
+    Private Sub FeneSaisieAbo_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
+
+    Private Sub GroupBox1_Enter(sender As Object, e As EventArgs) Handles GroupBox1.Enter
+
     End Sub
 End Class
