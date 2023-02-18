@@ -94,7 +94,7 @@ Partial Class FeneConnexion
         Me.Label4.Font = New System.Drawing.Font("Bahnschrift SemiBold", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.Location = New System.Drawing.Point(124, 68)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(373, 23)
+        Me.Label4.Size = New System.Drawing.Size(385, 23)
         Me.Label4.TabIndex = 10
         Me.Label4.Text = "Centre des ventes et Services de Ngiri-Ngiri"
         '
@@ -104,7 +104,7 @@ Partial Class FeneConnexion
         Me.Label3.Font = New System.Drawing.Font("Bahnschrift SemiBold", 14.25!, System.Drawing.FontStyle.Bold)
         Me.Label3.Location = New System.Drawing.Point(187, 45)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(257, 23)
+        Me.Label3.Size = New System.Drawing.Size(261, 23)
         Me.Label3.TabIndex = 9
         Me.Label3.Text = "Société Nationale d'Electricité"
         '
